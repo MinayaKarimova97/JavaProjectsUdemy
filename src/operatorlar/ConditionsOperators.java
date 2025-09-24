@@ -8,8 +8,8 @@ public class ConditionsOperators {
 
         boolean deger1 = true;
         boolean deger2 = false;
-        System.out.println("deger1 ve deger2 and durumu "+(deger1 && deger2));
-        System.out.println("deger1 ve deger2 and durumu "+(deger1 || deger2));
+        System.out.println("deger1 ve deger2 and durumu "+(deger1 && deger2)); //column selection mode
+        System.out.println("deger1 ve deger2 and durumu "+(deger1 || deger2)); //column selection mode
 
 
     }
